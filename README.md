@@ -7,4 +7,4 @@
 
 [Перехват и изменение трафика с помощью компьютера](https://drive.google.com/file/d/17xo5lbf7fn4_3fS2kce04v_0pVRizQey/view?usp=sharing)
 
-[Перехват и изменение трафика с помощью мою устройства](https://drive.google.com/file/d/1BMEwMVMd4AVKAkWQy2FvOYyYjWQ4y3P7/view?usp=sharing)
+[Перехват и изменение трафика с помощью мобильного устройства](https://drive.google.com/file/d/1BMEwMVMd4AVKAkWQy2FvOYyYjWQ4y3P7/view?usp=sharing)
