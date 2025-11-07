@@ -1,4 +1,5 @@
-# Тестирование мобильных приложений
+# Тестирование мобильного приложения
+Я тестировала мобильное приложение [Shopping list](https://drive.google.com/file/d/1wSz1J4Ba-VDgjv82RIk59EaQ1Ys16ph8/view?usp=sharing) с помощью Android studio и Charles Proxy и составляла тестовую документацию
 
 [Чек-лист для мобильного приложения shopping-list](https://docs.google.com/spreadsheets/d/1QNbpcasjeweXmQi3uG6SNb7pFzmwg4rnsVAwvxsbRkM/edit?gid=1080555768#gid=1080555768)
 
